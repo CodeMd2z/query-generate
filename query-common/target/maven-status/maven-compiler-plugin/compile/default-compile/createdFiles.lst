@@ -1,6 +1,0 @@
-com\corleone\annotations\EntityFieldConfig.class
-com\corleone\model\ClazzConfig.class
-com\corleone\model\EntityConfig.class
-com\corleone\annotations\EnableQueryGenerate.class
-com\corleone\model\FieldConfig.class
-com\corleone\model\GenerateEntityConfigInterface.class
